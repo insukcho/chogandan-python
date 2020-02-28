@@ -1,0 +1,6 @@
+name = input('What is your name? ')
+account_id = input('What ID do you want to use? ')
+email = input('What is your email address? ')
+print('Name: ', name)
+print('ID: ', account_id)
+print('Email: ', email)
